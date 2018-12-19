@@ -10,6 +10,9 @@ Welcome to my_project's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   simple
+   harder
+
 
 
 Indices and tables
